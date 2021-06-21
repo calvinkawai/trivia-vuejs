@@ -1,0 +1,257 @@
+CATEGORY: TENNIS FACTS
+
+QE: Who defeated tennis player Bobby Riggs in the famous "Battle of the Sexes"?
+A: BILLIE JEAN KING
+A: CHRIS EVERT-LLOYD
+A: MARGARET COURT
+A: MARTINA NAVRATILOVA
+
+QE: Who was the first British player to win Wimbledon?
+A: FRED PERRY
+A: ANDY MURRY
+A: HERBERT LAWFORD
+A: ROGER TAYLOR
+
+QE: How long was the longest match in history?
+A: 11 hours 5 minutes
+A: 10 hours 10 minutes
+A: 12 hours 5 minutes
+A: 13 hours 10 minutes
+
+QE: From 2018, how much time Grand Slam events increased between serves?
+A: 5 sec (from 20 to 25)
+A: 10 sec (from 15 to 25)
+A: 5 sec (from 25 to 30)
+A: 10 sec (from 20 to 30)
+
+QM: Which Grand Slam is the first to offer equal price for Men's and Women's competition?
+A: US OPEN
+A: AUSTRALIAN OPEN
+A: FRENCH OPEN
+A: WIMBLEDON
+
+QM: How much did BBGs get paid for their 13-day period at Wimbledon?
+A: 120 - 180 POUND
+A: 150 - 200 POUND
+A: Over 300 POUND
+A: NO PAID, THEY ARE VOLUNTEERS!!
+
+QM: What is US OPEN official cocktail?
+A: HONEY DEUCE
+A: OLD FASHIONED
+A: JIN & TONIC
+A: LONG ISLAND ICE TEA
+
+QM: Who is oldest CHAMPIONSHIP in ROGERS CUP?
+A: Rafael Nadal
+A: Andre Agassi
+A: Novak Djokovic
+A: Roger Federer
+
+QH: What is ROGERS CUP signature cocktail?
+A: APEROL SPRITZ
+A: AMERICANO
+A: NEGRONI
+A: ANGELO AZZURRO
+
+QH: Since 1905, which cities have staged Australian open?
+A: Melbourne, Sydney, Adelaide, Brisbane, Perth, New Zealand
+A: Melbourne, Sydney
+A: Melbourne, Sydney, Adelaide
+A: Melbourne, Sydney, New Zealand
+
+QH: Which city began Nitto ATP Finals?
+A: Tokyo
+A: London
+A: New York
+A: Shanghai
+
+QH: 2019 Nitto ATP Finals, how many players are 23 and under?
+A: 4
+A: 3
+A: 2
+A: 5
+
+CATEGORY: TENNIS STATS
+
+QE: Who has highest prize money earnings as Feb 2020 (~143m)?
+A: Novak Djokovic
+A: Roger Federer
+A: Rafael Nadal
+
+QE: How many times Roger Federer won Wimbledon?
+A: 8
+A: 7
+A: 5
+A: 9
+
+QE: How many times Djokovic won Australian OPEN?
+A: 8
+A: 7
+A: 6
+A: 9
+
+QE: Which tennis player has fastest serve record which recognized by ATP?
+A: John Isner
+A: Andy Roddick
+A: Ivo Karlovic
+A: Milos Raonic
+
+QM: How many weeks Rafael Nadal stay at No.1?
+A: 209
+A: 200
+A: 219
+A: 301
+
+QM: How long is shortest GRAND SLAM FINAL (Which is French Open)?
+A: Around 30 minutes
+A: Around 1 hour
+A: Around 1 and half hours
+A: 10 minutes
+
+QM: What is ROLAND-GARROS official App rating in Apple app store?
+A: 4.2
+A: 3.8
+A: 4.9
+A: 4.5
+
+QM: Which year was the first year that the prize money for winning Wimbledon was equal for men and women?
+A: 2007
+A: 2010
+A: 2000
+A: 1997
+
+QH: How many portions of strawberries are roughly served for Wimbledon in 2019?
+A: ~ 200,000
+A: ~ 300,200
+A: ~ 500,000
+A: ~ 100,000
+
+QH: Which one of following platform has most followers(Subscribers) or likes?
+A: Facebook
+A: Youtube
+A: TikTok
+A: Instagram
+A: Twitter
+
+QH: How many downloads does Roland-Garros app has?
+A: 1,278,940
+A: 1,378,940
+A: 1,478,940
+A: 978,940
+
+QH: How many balls were used in the longest match at Wimbledon?
+A: 123
+A: 112
+A: 131
+A: 95
+
+CATEGORY: TENNIS PLAYERS
+
+QE: In tennis top 5 players' country, which country has most corona-virus cases?
+A: Spain
+A: Serbia
+A: Austria
+A: Switzerland
+A: Russia
+
+QE: Which of following brand is not sponsor of Roger Federer?
+A: NESPRESSO
+A: NETJETS
+A: SUNRISE
+A: RIMOWA
+A: JURA
+
+QE: Which one of following brand is watch sponsor of Rafael Nadal?
+A: Richard Mille
+A: Jaeger-LeCoultre
+A: Longines
+A: Rolex
+A: Patek Philippe
+
+QE: When will the deal finish between Djokovic with Lacoste?
+A: 2022
+A: 2023
+A: 2024
+A: It didn't mention in the contract
+
+QM: Which Airline company sponsor Serena William?
+A: Delta Air Lines
+A: American Airlines
+A: JetBlue Airways
+A: Sun Country Airlines
+
+QM: How old Milos Raonic started tennis?
+A: 8 years-old
+A: 6 years-old
+A: 7 years-old
+A: 5 years-old
+
+QM: In which year Milos Raonic ranked top 3 for first time?
+A: 2016
+A: 2017
+A: 2014
+A: 2015
+
+QM: Who is the tennis player in the picture?
+IMG: dominic.jpg
+A: Dominic Thiem
+A: Andy Murray
+A: Djokovic
+A: Alexander Zverev
+
+QH: Which one of the following players is not sponsored by Rolex?
+IMG: rolex.png
+A: Daniil Medvedev
+A: Dominic Thiem
+A: Milos Raonic
+A: Caroline Wozniacki
+
+QH: Which players beat Djokovic, Nadal, Federer in their first meeting?
+A: Nick Kyrgios & Lleyton Hewitt
+A: Nick Kyrgios & Andy Murray
+A: Lleyton Hewitt & Andy Murray
+A: Just doesn't exist
+
+QH: According to ESPN, what is Serena Williams favorite city in the world?
+A: ROME
+A: PARIS
+A: TOKYO
+A: NEW YORK
+
+QH: Where is Naomi Osaka's father Leonard François from?
+IMG: hatit.png
+A: Haiti
+A: Dominican Republic
+A: Nicaragua
+A: Belize
+
+CATEGORY: TENNIS ABOUT US
+
+QM: When was this photo taken?
+IMG: aboutUs1.jpg
+A: 2016 - 9
+A: 2015 - 9
+A: 2016 - 10
+A: 2015 - 10
+
+QM: When was this?
+IMG: aboutUs2.jpg
+A: 2015 - 5
+A: 2015 - 9
+A: 2016 - 5
+A: 2016 - 6
+
+QM: When was this time we played at ACE tennis club?
+IMG: aboutUs4.jpg
+A: 2016 - 3
+A: 2015 - 11
+A: 2016 - 2
+A: 2015 - 10
+
+QM: When was this?
+IMG: aboutUs3.jpg
+A: 2015 - 11
+A: 2016 - 11
+A: 2016 - 2
+A: 2015 - 2
