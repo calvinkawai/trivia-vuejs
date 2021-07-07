@@ -43,7 +43,7 @@ python parseRound1.py {your_question_file.txt} ../src/assets/Round1.json
 ![alt text](TeamPage.png)
 
 - Press "Start"
-- "Next team to answer:" will choose answer by pressing the button from the page
+- "Next team to answer:" will choose question by pressing the button from the page
 ![alt text](Round1.png)
 - "First team to answer:" will start answer the question as follow
 ![alt text](ChooseQuestion.png)
